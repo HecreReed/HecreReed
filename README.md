@@ -1,56 +1,114 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hecre_Reed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Super%20Developer%20%7C%20AI%20Engineer%20%7C%20Builder%20of%20Worlds&descAlignY=55&descSize=16" width="100%"/>
+</div>
 
-# 👋 Hey, I'm Hecre_Reed
+<div align="center">
+  <a href="https://github.com/HecreReed">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=AI+Engineer+%7C+Deep+Learning+Specialist;Full-Stack+Java+Developer;Minecraft+%26+HOI4+Mod+Creator;Model+Fine-tuning+%26+Deployment+Expert;Agent+%26+Skill+Architect" alt="Typing SVG" />
+  </a>
+</div>
 
-**Super Developer** · AI Engineer · Builder of Things
+<br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/HecreReed?style=social)](https://github.com/HecreReed)
+<div align="center">
+  <img src="https://img.shields.io/badge/NUS-M.S.-003D7C?style=for-the-badge&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ZJU-B.S.-003087?style=for-the-badge&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI-4%2B%20Years-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Singapore-🌴-red?style=for-the-badge"/>
+</div>
 
+<br/>
+
+---
+
+## 🧠 About Me
+
+```python
+class HecreReed:
+    def __init__(self):
+        self.name        = "Hecre_Reed"
+        self.education   = ["M.S. @ NUS", "B.S. @ Zhejiang University"]
+        self.role        = "Super Developer"
+        self.location    = "Singapore 🌴"
+        self.experience  = "4+ years in AI"
+
+    @property
+    def expertise(self):
+        return {
+            "AI / ML":      ["Python", "Deep Learning", "Model Fine-tuning",
+                             "Model Deployment", "Image Generation"],
+            "Backend":      ["Java Full-Stack", "Spring Boot", "Node.js"],
+            "Game Modding": ["Minecraft Mod Dev", "Minecraft Server Plugins",
+                             "Hearts of Iron IV Mod Dev"],
+            "AI Agents":    ["Agent Design", "Skill Writing", "LLM Orchestration"],
+        }
+
+    def __repr__(self):
+        return "Always shipping. Always learning. Always building."
+```
+
+---
+
+## 🚀 Tech Stack
+
+### 🤖 AI & Machine Learning
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stable%20Diffusion-8A2BE2?style=for-the-badge&logo=artstation&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</div>
+
+### 💻 Development
+<div>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</div>
+
+### 🎮 Game Modding
+<div>
+  <img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Forge%2FFabric-8B4513?style=for-the-badge&logo=curseforge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spigot%2FPaper-F7A800?style=for-the-badge&logo=minecraft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hearts%20of%20Iron%20IV-8B0000?style=for-the-badge&logo=paradoxinteractive&logoColor=white"/>
 </div>
 
 ---
 
-### 🧠 About Me
+## 🔥 Featured Projects
 
-- 🎓 M.S. from **National University of Singapore** · B.S. from **Zhejiang University**
-- ⚡ 4+ years in the **AI field** — from research to production
-- 🚀 Super developer who ships fast and thinks deep
-- 🌴 Based in **Singapore**
-
----
-
-### 🛠️ Tech Stack
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+| 🏗️ Project | 📝 Description | 🛠️ Stack |
+|:-----------|:---------------|:---------|
+| [**PowerConnect**](https://github.com/HecreReed/PowerConnect) | Remote terminal + file manager + intranet penetration. Access your home PC from anywhere | TypeScript, Node.js |
+| [**mowan-resume**](https://github.com/HecreReed/mowan-resume) | AI-powered resume optimization — PDF parsing, intelligent diagnosis & actionable suggestions | TypeScript, AI/LLM |
+| [**cangjie-app**](https://github.com/HecreReed/cangjie-app) | Demo applications for Cangjie Programming Language | Cangjie |
 
 ---
 
-### 🔥 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| [PowerConnect](https://github.com/HecreReed/PowerConnect) | Remote terminal + file manager + intranet penetration, access your home PC from anywhere |
-| [mowan-resume](https://github.com/HecreReed/mowan-resume) | AI-powered resume optimization platform with PDF parsing & intelligent diagnosis |
-| [cangjie-app](https://github.com/HecreReed/cangjie-app) | Demo apps for Cangjie Programming Language |
-
----
-
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HecreReed&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HecreReed&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</div>
 
-![HecreReed's GitHub stats](https://github-readme-stats.vercel.app/api?username=HecreReed&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HecreReed&theme=tokyonight&hide_border=true" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HecreReed&layout=compact&theme=tokyonight&hide_border=true)
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HecreReed&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
 ---
 
 <div align="center">
-<i>Building the future, one commit at a time.</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
