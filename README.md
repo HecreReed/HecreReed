@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/HecreReed">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=AI+Engineer+%7C+Deep+Learning+Specialist;Full-Stack+Java+Developer;Minecraft+%26+HOI4+Mod+Creator;Model+Fine-tuning+%26+Deployment+Expert;Agent+%26+Skill+Architect" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=650&lines=AI+Engineer+%7C+Deep+Learning+Specialist;Full-Stack+Java+Developer;Minecraft+%26+HOI4+Mod+Creator;Godot+%26+Unity+Game+Developer;Model+Fine-tuning+%26+Deployment+Expert;Agent+%26+Skill+Architect" alt="Typing SVG" />
   </a>
 </div>
 
@@ -21,38 +21,34 @@
 
 ---
 
-## 🧠 About Me
+## ✨ About Me
 
-```python
-class HecreReed:
-    def __init__(self):
-        self.name        = "Hecre_Reed"
-        self.education   = ["M.S. @ NUS", "B.S. @ Zhejiang University"]
-        self.role        = "Super Developer"
-        self.location    = "Singapore 🌴"
-        self.experience  = "4+ years in AI"
+<div align="center">
 
-    @property
-    def expertise(self):
-        return {
-            "AI / ML":      ["Python", "Deep Learning", "Model Fine-tuning",
-                             "Model Deployment", "Image Generation"],
-            "Backend":      ["Java Full-Stack", "Spring Boot", "Node.js"],
-            "Game Modding": ["Minecraft Mod Dev", "Minecraft Server Plugins",
-                             "Hearts of Iron IV Mod Dev"],
-            "AI Agents":    ["Agent Design", "Skill Writing", "LLM Orchestration"],
-        }
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=A9FEF7&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=120&lines=🎓+M.S.+%40+National+University+of+Singapore+·+B.S.+%40+Zhejiang+University;⚡+4%2B+years+in+AI+—+from+research+to+production;🚀+Super+developer+who+ships+fast+and+thinks+deep;🌴+Based+in+Singapore+·+Building+the+future+one+commit+at+a+time" />
 
-    def __repr__(self):
-        return "Always shipping. Always learning. Always building."
-```
+</div>
+
+<br/>
+
+<div align="center">
+
+| 🤖 AI & ML | 💻 Development | 🎮 Game Dev & Modding | 🧩 AI Agents |
+|:---:|:---:|:---:|:---:|
+| Deep Learning | Java Full-Stack | Godot Engine | Agent Design |
+| Model Fine-tuning | Spring Boot | Unity | Skill Writing |
+| Model Deployment | Node.js / TypeScript | Minecraft Mod Dev | LLM Orchestration |
+| Image Generation | C++ | Minecraft Server Plugins | Tool Use & RAG |
+| Machine Learning | RESTful APIs | Hearts of Iron IV Mods | Multi-Agent Systems |
+
+</div>
 
 ---
 
 ## 🚀 Tech Stack
 
 ### 🤖 AI & Machine Learning
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -60,20 +56,22 @@ class HecreReed:
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Stable%20Diffusion-8A2BE2?style=for-the-badge&logo=artstation&logoColor=white"/>
   <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
 
 ### 💻 Development
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
 
-### 🎮 Game Modding
-<div>
+### 🎮 Game Development & Modding
+<div align="center">
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white"/>
   <img src="https://img.shields.io/badge/Forge%2FFabric-8B4513?style=for-the-badge&logo=curseforge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spigot%2FPaper-F7A800?style=for-the-badge&logo=minecraft&logoColor=white"/>
@@ -84,11 +82,15 @@ class HecreReed:
 
 ## 🔥 Featured Projects
 
+<div align="center">
+
 | 🏗️ Project | 📝 Description | 🛠️ Stack |
 |:-----------|:---------------|:---------|
-| [**PowerConnect**](https://github.com/HecreReed/PowerConnect) | Remote terminal + file manager + intranet penetration. Access your home PC from anywhere | TypeScript, Node.js |
-| [**mowan-resume**](https://github.com/HecreReed/mowan-resume) | AI-powered resume optimization — PDF parsing, intelligent diagnosis & actionable suggestions | TypeScript, AI/LLM |
-| [**cangjie-app**](https://github.com/HecreReed/cangjie-app) | Demo applications for Cangjie Programming Language | Cangjie |
+| [**PowerConnect**](https://github.com/HecreReed/PowerConnect) | Remote terminal + file manager + intranet penetration. Access your home PC from anywhere via browser | TypeScript, Node.js |
+| [**EmojiGame-Godot**](https://github.com/HecreReed/EmojiGame-Godot) | A fun emoji-themed game built with Godot Engine | GDScript, Godot |
+| [**pvz-godot**](https://github.com/HecreReed/pvz-godot) | Plants vs. Zombies fan remake in Godot | GDScript, Godot |
+
+</div>
 
 ---
 
