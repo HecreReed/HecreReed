@@ -99,13 +99,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HecreReed&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HecreReed&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HecreReed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HecreReed&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=HecreReed&theme=tokyonight&hide_border=true" />
-</div>
+<br/>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HecreReed&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
