@@ -25,13 +25,15 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=A9FEF7&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=120&lines=🎓+M.S.+%40+National+University+of+Singapore+·+B.S.+%40+Zhejiang+University;⚡+4%2B+years+in+AI+—+from+research+to+production;🚀+Super+developer+who+ships+fast+and+thinks+deep;🌴+Based+in+Singapore+·+Building+the+future+one+commit+at+a+time" />
+🎓 &nbsp;**M.S. @ National University of Singapore** &nbsp;·&nbsp; **B.S. @ Zhejiang University**
 
-</div>
+⚡ &nbsp;4+ years in AI — from research to production
+
+🚀 &nbsp;Super developer who ships fast and thinks deep
+
+🌴 &nbsp;Based in **Singapore**
 
 <br/>
-
-<div align="center">
 
 | 🤖 AI & ML | 💻 Development | 🎮 Game Dev & Modding | 🧩 AI Agents |
 |:---:|:---:|:---:|:---:|
@@ -97,16 +99,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HecreReed&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HecreReed&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HecreReed&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HecreReed&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HecreReed&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=HecreReed&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HecreReed&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HecreReed&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
 </div>
 
 ---
