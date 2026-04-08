@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/NUS-M.S.-003D7C?style=for-the-badge&logo=academia&logoColor=white"/>
   <img src="https://img.shields.io/badge/ZJU-B.S.-003087?style=for-the-badge&logo=academia&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI-4%2B%20Years-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Singapore-🌴-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Singapore-Based-red?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/%E6%9D%B1%E6%96%B9Project-%E5%B9%BB%E6%83%B3%E9%83%B7-FF69B4?style=for-the-badge&logoColor=white"/>
 </div>
 
