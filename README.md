@@ -11,18 +11,21 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/NUS-M.S.-003D7C?style=for-the-badge&logo=academia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ZJU-B.S.-003087?style=for-the-badge&logo=academia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI-4%2B%20Years-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Singapore-🌴-red?style=for-the-badge"/>
+  <img src="https://raw.githubusercontent.com/HecreReed/HecreReed/main/assets/reimari.gif" width="200"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/HecreReed/HecreReed/main/assets/touhou-pixel.gif" width="160"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/HecreReed/HecreReed/main/assets/remilia.gif" width="160"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/東方Project-幻想郷-FF69B4?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAA7AAAAOwBeShxvQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAADKSURBVCiRpdIxSgNBFAbgb3eTTSBBEMEiR/AEHkAQPIB4Bm9g4Q08gZfwAB5A8AqCCFZioWBhYSEWFkI2u5nxd3dNNslmwYFp3rzHzH/fzMiMiMhMRFZEZEdE5kRkLiLyJiIvIvIsIs8i8iQijyLyICL3InInIrci8i8i/yLyJyJvIvImIq8i8iAi9yJyJyK3IvIvIv8i8icibwLyJiCvAvIqIK8C8iogLwLyIiAvAvIiIC8C8iIgLwLyIiAvAvIiIC8C8iIgLwLyIiAvAvIiIC8C8iIgLwLyIiA=&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ZUN-神主-9B59B6?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gensokyo-居住者-E91E8C?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NUS-M.S.-003D7C?style=for-the-badge&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ZJU-B.S.-003087?style=for-the-badge&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI-4%2B%20Years-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Singapore-🌴-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/東方Project-幻想郷-FF69B4?style=for-the-badge&logoColor=white"/>
 </div>
 
 ---
@@ -42,7 +45,7 @@
 <br/>
 
 > *「夢と現の境界で、コードを紡ぐ者」*
-> 
+>
 > *— One who weaves code at the boundary of dream and reality —*
 
 <br/>
@@ -114,7 +117,7 @@
 
 ```
 ♪ 少女幻葬 ~ Necrofantasia        ████████████░░░░  博麗霊夢
-♪ U.N.オーエンは彼女なのか？       ██████████████░░  フランドール・スカーレット  
+♪ U.N.オーエンは彼女なのか？       ██████████████░░  フランドール・スカーレット
 ♪ 竹取飛翔 ~ Lunatic Princess     ███████████░░░░░  蓬莱山輝夜
 ♪ 感情の摩天楼 ~ Cosmic Mind      █████████████░░░  聖白蓮
 ♪ 東方妖々夢 ~ Ancient Temple     ████████░░░░░░░░  西行寺幽々子
