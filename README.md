@@ -107,7 +107,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HecreReed&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
 </div>
 
 ---
