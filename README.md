@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/HecreReed">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=650&lines=AI+Engineer+%7C+Deep+Learning+Specialist;Full-Stack+Java+Developer;Minecraft+%26+HOI4+Mod+Creator;Godot+%26+Unity+Game+Developer;Model+Fine-tuning+%26+Deployment+Expert;Agent+%26+Skill+Architect;東方Project+Fan+%7C+Gensokyo+Resident" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=650&lines=AI+Engineer+%7C+Deep+Learning+Specialist;Full-Stack+Java+Developer;Minecraft+%26+HOI4+Mod+Creator;Godot+%26+Unity+Game+Developer;Model+Fine-tuning+%26+Deployment+Expert;Agent+%26+Skill+Architect;Touhou+Fan+%7C+Gensokyo+Resident" alt="Typing SVG" />
   </a>
 </div>
 
